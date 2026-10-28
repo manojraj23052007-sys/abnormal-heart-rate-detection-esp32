@@ -46,3 +46,6 @@ This project demonstrates an abnormal heart rate detection and alert system usin
 ## Important Note
 
 This project currently uses synthetic heart rate readings for simulation. It does not measure actual heart rate and is not intended for medical diagnosis.
+## Circuit Diagram
+
+![Pulse Monitor Circuit](pulse_monitor_circuit.png)
